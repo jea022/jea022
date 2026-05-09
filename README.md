@@ -37,7 +37,7 @@ Multiplatform Developer focused on building modern and responsive web applicatio
 - Experience in companies as a backend and frontend developer
 
 ## 4️⃣ Current progress at 42 Barcelona
-[![jaguinag's 42 stats](https://badge.mediaplus.ma/binary/jaguinag)](https://github.com/oakoudad/badge42)
+[![jaguinag's 42 stats](https://badge.mediaplus.ma/greenbinary/jaguinag)](https://github.com/oakoudad/badge42)
 
 ## 🌍 Portfolio
 👉 https://jea022.github.io/PortfolioJea/
