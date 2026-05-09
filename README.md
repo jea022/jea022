@@ -1,6 +1,6 @@
 # Hi, I'm Juan Esteban 👋
 
-Frontend Developer focused on building modern and responsive web applications.
+Multiplatmorm Developer focused on building modern and responsive web applications.
 
 ## 🚀 Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
