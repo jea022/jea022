@@ -25,6 +25,9 @@ Frontend Developer focused on building modern and responsive web applications.
 - Strong focus on clean UI and usability
 - Open to remote and international opportunities
 
+[![Stats de 42](https://badge.mediaplus.ma/darkblue/<jaguinag>)](https://github.com/oakoudad/badge42)
+
+
 ## 🌍 Portfolio
 👉 https://jea022.github.io/PortfolioJea/
 
